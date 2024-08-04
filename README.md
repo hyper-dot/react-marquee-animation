@@ -1,6 +1,3 @@
-Here's a `README.md` file for your package:
-
-```markdown
 # react-marquee-animation
 
 A React component for creating smooth and customizable marquee animations, perfect for infinite scroll, carousels, tickers, and horizontal scrolling animations.
@@ -109,7 +106,3 @@ For any inquiries or issues, please contact [rozanpoudel@gmail.com](mailto:rozan
 ## Repository
 
 For more details, please visit the [GitHub repository](https://github.com/hyper-dot/react-marquee-animation).
-
-```
-
-This `README.md` provides an overview of the package, how to install and use it, the available props for customization, and instructions for development and contribution.
